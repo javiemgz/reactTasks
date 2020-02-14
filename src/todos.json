@@ -1,0 +1,23 @@
+{
+    "todos":[
+        {
+            "title": "lata rea 1",
+            "responsible": "Marcos",
+            "description": "Comprar macs",
+            "piority": "Low"
+
+        },
+        {
+            "title": "lata rea 2",
+            "responsible": "Juan",
+            "description": "Traer avena",
+            "piority": "Medium"
+        },
+        {
+            "title": "lata rea 3",
+            "responsible": "Pepe",
+            "description": "Nada",
+            "piority": "High"
+        }
+    ]
+}
